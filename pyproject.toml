@@ -11,6 +11,8 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "basedpyright",
+    "pre-commit",
+    "ruff",
 ]
 
 [tool.basedpyright]
